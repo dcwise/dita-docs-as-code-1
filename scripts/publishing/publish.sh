@@ -62,6 +62,6 @@ cd ../..
 pwd
 
 sh $DITA_OT/bin/dita \
-    --format=pdf2 \
+    --format=html5 \
     --input=source/markdown-dita/garage.ditamap \
     --output=bin/out
