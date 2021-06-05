@@ -62,6 +62,6 @@ cd ../..
 pwd
 
 sh $DITA_OT/bin/dita \
-    --format=html5 \
+    --format=webhelp-responsive \
     --input=source/markdown-dita/garage.ditamap \
     --output=bin/out
