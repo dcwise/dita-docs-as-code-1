@@ -5,7 +5,7 @@ if [[ ! -e bin/dita-ot.zip ]];
 then
   mkdir bin
   
-  curl -q -L https://github.com/dita-ot/dita-ot/releases/download/3.3.3/dita-ot-3.3.3.zip --output bin/dita-ot.zip
+  curl -q -L https://github.com/dita-ot/dita-ot/releases/download/3.6.1/dita-ot-3.6.1.zip --output bin/dita-ot.zip
   
   ls -l bin/dita-ot.zip
   
