@@ -62,6 +62,6 @@ cd ../..
 pwd
 
 sh $DITA_OT/bin/dita \
-    --format=markdown-gitbook \
+    --format=markdown_gitbook \
     --input=source/markdown-dita/garage.ditamap \
     --output=bin/out
