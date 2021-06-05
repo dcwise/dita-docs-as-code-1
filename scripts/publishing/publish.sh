@@ -1,4 +1,4 @@
-DITA_OT=bin/dita-ot-3.3.3
+DITA_OT=bin/dita-ot-3.6.1
 
 echo "Downloading DITA-OT"
 if [[ ! -e bin/dita-ot.zip ]];
@@ -62,6 +62,6 @@ cd ../..
 pwd
 
 sh $DITA_OT/bin/dita \
-    --format=webhelp-responsive \
+    --format=markdown_gitbook \
     --input=source/markdown-dita/garage.ditamap \
     --output=bin/out
