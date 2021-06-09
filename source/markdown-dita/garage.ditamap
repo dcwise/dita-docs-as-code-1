@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-  <title>DOC AS CODE</title>
+  <title>XIAOSHOUYI DOC AS CODE</title>
+  <topicref href="tasks/SAMPLE_%E6%B5%81%E7%A8%8B%E5%AE%9E%E4%BE%8B%E7%AE%A1%E7%90%86.dita"/>
+  <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E6%A6%82%E8%BF%B0.dita"/>
+  <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.dita"/>
+  <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E5%85%A5%E5%8F%A3.dita"/>
+  <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E5%AE%A1%E6%89%B9%E6%B5%81.dita"/>
   <topicref href="badges_intro.md" format="markdown"/>
   <topicref href="tasks/carMaintenance.md" format="markdown"/>
   <topicref href="tasks/changingtheoil.md" format="markdown"/>
@@ -9,7 +14,6 @@
     format="markdown"/>
   <topicref href="tasks/garagetaskoverview.dita" format="dita"/>
   <topicref href="tasks/garagetasksoverview.md" format="markdown"/>
-  <topicref href="tasks/organizing.dita" format="markdown"/>
   <topicref href="tasks/washingthecar.md" format="markdown"/>
   <topicref href="concepts/EpicElfug_ddr4_sodimm.md" format="markdown"/>
   <topicref href="concepts/EpicElfug_ddr4_sodimm%E8%BE%93%E5%85%A5%E6%97%B6%E9%92%9F.md"

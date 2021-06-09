@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="en-us" id="A5313595-7E4F1F2-58151774E575373-2C8D7D">
+  <title>Sales easy overview (Title 2 bold 14pt)</title>
+  <shortdesc>Saleseasy currently provides the following products and services:</shortdesc>
+  <taskbody>
+    <context>
+      <ul>
+        <li>Sales CRM <i>（Bullet
+ 10.5pt）</i></li>
+      </ul>
+      <p>Provide standard customer relationship management (CRM) process, sales automation process, workflow approval process, etc., covering sales management automation, partner relationship management, marketing, customer service and many other aspects.<i>（ListContinue
+ 10.5pt）</i></p>
+      <ul>
+        <li>Sales epaas platform<p>It provides a highly customized development platform (e-paas platform for sales), which helps developers to carry out secondary development quickly and efficiently to meet the complex and special business needs. On demand services do not require any software.</p><p>Sales CRM provides you with a complete sales management process from lead to order. The complete sales process basically includes the following five steps:</p><ol><li>公司举办或参加市场活动。</li><li>A large number of sales leads are collected by the sales staff or the company through the marketing activities, most of which are rough and need further follow-up by the sales staff; at the same time, in addition to the marketing activities, the sales staff or the company may also obtain leads through other ways. There are two main sources of leads:<i>（step
+ 10.5pt）</i></li></ol></li>
+        <li>市场活动
+ <i>（ListDash 10.5pt）</i></li>
+        <li>Other channels<ol><li>After following up the leads, the sales staff found that some leads are of high value, and the other party may be a potential customer of the company, so they turned the leads into customers (and added the contact person of the customer) and continued to follow up the customers; similarly, the customers may not be transformed from the leads, but may be directly mined by the sales staff or the company to valuable customers. Therefore, there are two types of customer source channels:</li></ol></li>
+        <li>Lead conversion</li>
+        <li>Other channels</li>
+      </ul>
+      <p>Follow up of customers found that customers have purchased</p>
+    </context>
+  </taskbody>
+</task>
