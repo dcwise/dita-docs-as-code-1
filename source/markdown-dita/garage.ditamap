@@ -11,7 +11,7 @@
   <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.dita" format="dita"/>
   <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E5%85%A5%E5%8F%A3.dita" format="dita"/>
   <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E5%AE%A1%E6%89%B9%E6%B5%81.dita" format="dita"/>
-  <topicref href="badges_intro.md" format="markdown"/>
+  <topicref href="badges_intro.md" format=""/>
   <topicref href="tasks/carMaintenance.md" format="markdown"/>
   <topicref href="tasks/changingtheoil.md" format="markdown"/>
   <topicref href="tasks/EpicElfug_%E9%9D%9E%E9%AB%98%E9%80%9F%E9%83%A8%E5%88%86.md"
