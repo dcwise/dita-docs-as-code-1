@@ -8,7 +8,7 @@
      format="dita"/>
   </topicref>
   <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E6%A6%82%E8%BF%B0.dita" format="dita"/>
-  <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.dita" format="dita"/>
+  <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E6%B5%81%E7%A8%8B.dita" format="dita" audience="expert"/>
   <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E5%85%A5%E5%8F%A3.dita" format="dita"/>
   <topicref href="tasks/SAMPLE_%E9%85%8D%E7%BD%AE%E5%AE%A1%E6%89%B9%E6%B5%81.dita" format="dita"/>
   <topicref href="badges_intro.md" format=""/>
