@@ -6,6 +6,11 @@
       <step>
         <cmd>存储空间说明（Table Title 斜体 10pt）</cmd>
       </step>
+      <step>
+        <cmd>打开播放界面，如图 </cmd>
+        <info><object data="../01.mp4" outputclass="video"/><object data="../01.mp4"
+            outputclass="video"/></info>
+      </step>
     </steps>
     <result>
       <table>
