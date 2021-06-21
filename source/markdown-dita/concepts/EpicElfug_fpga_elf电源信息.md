@@ -16,5 +16,5 @@ FPGA-Elf器件一共有10个bank，bank结构和供电信息如下所示：
 |HP Bank 66|VCCO\_B44/45/46/66/67/68|1.8|
 |HP Bank 67|VCCO\_B44/45/46/66/67/68|1.8|
 
-**父主题：**[电源分配](../concepts/EpicElfug_电源分配.md)
+**Parent topic:**[电源分配](../concepts/EpicElfug_电源分配.md)
 

@@ -10,5 +10,5 @@
 
 详细数据见Xilinx DataSheet。
 
-**父主题：**[FPGA-Elf功能结构](../concepts/EpicElfug_fpga_elf功能结构.md)
+**Parent topic:**[FPGA-Elf功能结构](../concepts/EpicElfug_fpga_elf功能结构.md)
 

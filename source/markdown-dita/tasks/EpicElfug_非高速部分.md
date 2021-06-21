@@ -145,5 +145,5 @@
 72. set\_property IOSTANDARD LVCMOS18 \[get\_ports push\_rst\] 
 
 
-**父主题：**[FPGAPin脚约束和I/O标准](../concepts/EpicElfug_fpgapin脚约束和i_o标准.md)
+**Parent topic:**[FPGAPin脚约束和I/O标准](../concepts/EpicElfug_fpgapin脚约束和i_o标准.md)
 

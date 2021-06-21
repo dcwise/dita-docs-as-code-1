@@ -9,5 +9,5 @@
 |PT3\_C0\_CLK1\_N|M24|PT3\_C1\_CLK1\_N|N26|
 |PT3\_C0\_CLK1\_P|N24|PT3\_C1\_CLK1\_P|P26|
 
-**父主题：**[时钟](../concepts/EpicElfug_时钟.md)
+**Parent topic:**[时钟](../concepts/EpicElfug_时钟.md)
 

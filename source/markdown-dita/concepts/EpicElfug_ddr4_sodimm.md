@@ -139,5 +139,5 @@ DDR4的硬件设计需要严格考虑信号完整性，我们在电路设计和P
 |C0\_DDR4\_VREF\_45|AF19|C1\_DDR4\_VREF\_67|J20|
 |C0\_DDR4\_VREF\_46|AG27|C1\_DDR4\_VREF\_68|L14|
 
-**父主题：**[Pin脚分配](../concepts/EpicElfug_pin脚分配.md)
+**Parent topic:**[Pin脚分配](../concepts/EpicElfug_pin脚分配.md)
 

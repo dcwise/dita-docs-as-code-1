@@ -9,5 +9,5 @@ FPGA-Elf固定时钟有以下四个部分：
 -   **[DDR4 SODIMM输入时钟](../concepts/EpicElfug_ddr4_sodimm输入时钟.md)**  
 每一个DDR4 SODIMM内存条有10路差分时钟，作为参考时钟，频率为100MHz。DDR4 SODIMM时钟Pin脚分配如下：
 
-**父主题：**[Pin脚分配](../concepts/EpicElfug_pin脚分配.md)
+**Parent topic:**[Pin脚分配](../concepts/EpicElfug_pin脚分配.md)
 

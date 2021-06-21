@@ -2,5 +2,5 @@
 
 MCU使用外部25MHz晶振。
 
-**父主题：**[时钟分配](../concepts/EpicElfug_时钟分配.md)
+**Parent topic:**[时钟分配](../concepts/EpicElfug_时钟分配.md)
 

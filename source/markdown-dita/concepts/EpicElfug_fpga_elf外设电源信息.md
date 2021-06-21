@@ -10,5 +10,5 @@
 -   QSFP+模块
 -   PT3扩展接口。
 
-**父主题：**[电源分配](../concepts/EpicElfug_电源分配.md)
+**Parent topic:**[电源分配](../concepts/EpicElfug_电源分配.md)
 

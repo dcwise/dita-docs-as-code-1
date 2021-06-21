@@ -15,5 +15,5 @@ FPGA-Elf固定时钟Pin脚分配如下：
 |USER\_SMB\_CLK|AG11|
 |FPGA\_EMCCLK\_125MHZ|K20|
 
-**父主题：**[时钟](../concepts/EpicElfug_时钟.md)
+**Parent topic:**[时钟](../concepts/EpicElfug_时钟.md)
 

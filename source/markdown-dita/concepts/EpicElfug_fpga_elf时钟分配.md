@@ -7,5 +7,5 @@
 -   **[可调频率部分](../concepts/EpicElfug_可调频率部分.md)**  
 可调频率部分由时钟管理芯片提供\(由MCU通过I2C总线编程\)。
 
-**父主题：**[时钟分配](../concepts/EpicElfug_时钟分配.md)
+**Parent topic:**[时钟分配](../concepts/EpicElfug_时钟分配.md)
 

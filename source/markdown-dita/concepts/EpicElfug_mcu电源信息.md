@@ -2,5 +2,5 @@
 
 MCU器件为3.3V供电。
 
-**父主题：**[电源分配](../concepts/EpicElfug_电源分配.md)
+**Parent topic:**[电源分配](../concepts/EpicElfug_电源分配.md)
 

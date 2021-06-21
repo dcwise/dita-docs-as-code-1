@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
-<concept xml:lang="en-us" id="A4A74699-5E4F612-54812517950CA64-7F9746">
-  <title>Data model construction (title 3 bold 12pt)</title>
-  <shortdesc>As a business entity, sometimes it can also be used to show the relationship between business objects. A business object will contain multiple fields as property descriptions, and a business object can also be referenced by other business objects.</shortdesc>
-  <conbody>
-  </conbody>
-</concept>

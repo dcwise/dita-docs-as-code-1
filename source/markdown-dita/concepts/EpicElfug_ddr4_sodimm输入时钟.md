@@ -8,5 +8,5 @@
 |C1\_DDR4\_SYSCLK\_100M\_N|F9|
 |C1\_DDR4\_SYSCLK\_100M\_P|G9|
 
-**父主题：**[时钟](../concepts/EpicElfug_时钟.md)
+**Parent topic:**[时钟](../concepts/EpicElfug_时钟.md)
 

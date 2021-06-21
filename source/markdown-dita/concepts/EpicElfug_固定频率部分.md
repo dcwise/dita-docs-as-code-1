@@ -7,5 +7,5 @@
 -   QSFP+接口可选，本地156.25MHz时钟；
 -   Mini-SAS HD接口可选，本地100MHz时钟。
 
-**父主题：**[FPGA-Elf时钟分配](../concepts/EpicElfug_fpga_elf时钟分配.md)
+**Parent topic:**[FPGA-Elf时钟分配](../concepts/EpicElfug_fpga_elf时钟分配.md)
 

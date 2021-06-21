@@ -20,5 +20,5 @@ MCU作为板载控制器，通过以太网口与用户主机相连。用户可�
 
 -   FPGA-Elf复位信号。
 
-**父主题：**[功能结构](../concepts/EpicElfug_功能结构.md)
+**Parent topic:**[功能结构](../concepts/EpicElfug_功能结构.md)
 

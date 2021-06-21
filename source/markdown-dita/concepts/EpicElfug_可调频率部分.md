@@ -5,5 +5,5 @@
 -   QSFP+接口可选，可编程时钟；
 -   Mini-SAS HD接口可选，可编程时钟。
 
-**父主题：**[FPGA-Elf时钟分配](../concepts/EpicElfug_fpga_elf时钟分配.md)
+**Parent topic:**[FPGA-Elf时钟分配](../concepts/EpicElfug_fpga_elf时钟分配.md)
 
